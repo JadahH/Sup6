@@ -1,0 +1,12 @@
+C:\Users\13143\OneDrive - Virginia State University\Desktop\Programming Language\Sup6\shape\bin\Debug\net8.0\shape.deps.json
+C:\Users\13143\OneDrive - Virginia State University\Desktop\Programming Language\Sup6\shape\bin\Debug\net8.0\shape.dll
+C:\Users\13143\OneDrive - Virginia State University\Desktop\Programming Language\Sup6\shape\bin\Debug\net8.0\shape.pdb
+C:\Users\13143\OneDrive - Virginia State University\Desktop\Programming Language\Sup6\shape\obj\Debug\net8.0\shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13143\OneDrive - Virginia State University\Desktop\Programming Language\Sup6\shape\obj\Debug\net8.0\shape.AssemblyInfoInputs.cache
+C:\Users\13143\OneDrive - Virginia State University\Desktop\Programming Language\Sup6\shape\obj\Debug\net8.0\shape.AssemblyInfo.cs
+C:\Users\13143\OneDrive - Virginia State University\Desktop\Programming Language\Sup6\shape\obj\Debug\net8.0\shape.csproj.CoreCompileInputs.cache
+C:\Users\13143\OneDrive - Virginia State University\Desktop\Programming Language\Sup6\shape\obj\Debug\net8.0\shape.sourcelink.json
+C:\Users\13143\OneDrive - Virginia State University\Desktop\Programming Language\Sup6\shape\obj\Debug\net8.0\shape.dll
+C:\Users\13143\OneDrive - Virginia State University\Desktop\Programming Language\Sup6\shape\obj\Debug\net8.0\refint\shape.dll
+C:\Users\13143\OneDrive - Virginia State University\Desktop\Programming Language\Sup6\shape\obj\Debug\net8.0\shape.pdb
+C:\Users\13143\OneDrive - Virginia State University\Desktop\Programming Language\Sup6\shape\obj\Debug\net8.0\ref\shape.dll

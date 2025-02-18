@@ -1,0 +1,8 @@
+C:\Users\13143\OneDrive - Virginia State University\Desktop\Programming Language\Sup6\shape.Tests\bin\Debug\net8.0\.msCoverageSourceRootsMapping_shape.Tests
+C:\Users\13143\OneDrive - Virginia State University\Desktop\Programming Language\Sup6\shape.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_shape.Tests
+C:\Users\13143\OneDrive - Virginia State University\Desktop\Programming Language\Sup6\shape.Tests\obj\Debug\net8.0\shape.Tests.csproj.AssemblyReference.cache
+C:\Users\13143\OneDrive - Virginia State University\Desktop\Programming Language\Sup6\shape.Tests\obj\Debug\net8.0\shape.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13143\OneDrive - Virginia State University\Desktop\Programming Language\Sup6\shape.Tests\obj\Debug\net8.0\shape.Tests.AssemblyInfoInputs.cache
+C:\Users\13143\OneDrive - Virginia State University\Desktop\Programming Language\Sup6\shape.Tests\obj\Debug\net8.0\shape.Tests.AssemblyInfo.cs
+C:\Users\13143\OneDrive - Virginia State University\Desktop\Programming Language\Sup6\shape.Tests\obj\Debug\net8.0\shape.Tests.csproj.CoreCompileInputs.cache
+C:\Users\13143\OneDrive - Virginia State University\Desktop\Programming Language\Sup6\shape.Tests\obj\Debug\net8.0\shape.Tests.sourcelink.json

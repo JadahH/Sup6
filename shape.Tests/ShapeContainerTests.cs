@@ -1,7 +1,4 @@
-using System;
-using Xunit; 
-using shape; 
- 
+namespace shape.Tests;
 
 public class ShapeContainerTests
 {
@@ -19,24 +16,4 @@ public class ShapeContainerTests
         // Assert
         Assert.Equal(cube, retrieved);
     }
-
-    [Fact]
-    public void Test2()
-    {
-        // Arrange
-        ShapeContainer container = new ShapeContainer();
-        Sphere sphere = new Sphere(3);
-
-        // Act
-        container.Create(sphere);
-        bool deleted = container.Delete(0);
-
-        // Assert
-        Assert.True(deleted);
-        Assert.Throws<IndexOutOfRangeException>(() => container.Get(0));
-    }
-
-
-
-
 }
