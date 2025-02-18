@@ -59,13 +59,39 @@ class Program
                     Console.WriteLine($"Error: {ex.Message}");
                 }
 
+     }
+            else if (input == "2") // Get Shape
+            {
+                Console.Write("Enter index: ");
+                int index = Convert.ToInt32(Console.ReadLine());
 
+                try
+                {
+                    Shape3D shape = container.Get(index);
+                    Console.WriteLine("Retrieved Shape: " + shape.Dump());
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"Error: {ex.Message}");
+                }
+            }
+            else if (input == "3") // Delete Shape
+            {
+                Console.Write("Enter index to delete: ");
+                int index = Convert.ToInt32(Console.ReadLine());
+
+                if (container.Delete(index))
+                    Console.WriteLine("Shape deleted successfully.");
+                else
+                    Console.WriteLine("Invalid input. ");
+            }
+            else if (input == "4") // Exit
+            {
+                break;
     
-
-
     }
 
-}
+        }
 
-}
+    }
 }
