@@ -22,4 +22,15 @@ private List<Shape3D> shapes = new List<Shape3D>();
     }
 
 
+        public bool Delete(int index)
+    {
+        if (index >= 0 && index < shapes.Count)
+        {
+            shapes.RemoveAt(index);
+            return true;
+        }
+        return false;
+    }
 }
+
+
